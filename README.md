@@ -1,1 +1,2 @@
-"# reviews-analytics" 
+練習用
+實際練習amazon 一百萬筆資料的分析
